@@ -1,0 +1,60 @@
+.brand-title {
+	font-family: 'Gilroy';
+	font-style: normal;
+	font-size: 32px;
+	text-align: center;
+	color: #3f3737;
+}
+
+.client {
+	color: black;
+}
+
+.brands {
+	display: flex;
+	justify-content: space-around;
+	width: 90%;
+	margin: auto;
+}
+
+.shark-brand,
+.dragon-brand,
+.kick-brand,
+.indigo-brand {
+	width: 250px;
+	height: 100px;
+	border: 0.992908px solid #d4d4d4;
+	border-radius: 23.0355px;
+    display: flex;
+}
+
+.shark {
+	width: 172.97px;
+	height: 95.84px;
+	border-radius: 0px;
+	margin: auto;
+	display: flex;
+}
+
+.indigo {
+	width: 176.95px;
+	height: 98.04px;
+	margin: auto;
+	display: flex;
+}
+
+.kick {
+	width: 171.92px;
+	height: 48.01px;
+	margin: auto;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dragon {
+	width: 189.85px;
+	height: 53.54px;
+	margin: auto;
+	display: flex;
+}

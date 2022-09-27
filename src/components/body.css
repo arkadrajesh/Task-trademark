@@ -1,0 +1,46 @@
+.container {
+	display: grid;
+	grid-template-columns: 50% 50%;
+	width: 85%;
+	margin: auto;
+}
+.title {
+	font-style: normal;
+	color: #3a3a3a;
+}
+
+span {
+	color: #fa6464;
+}
+
+.title-small {
+	font-family: 'Gilroy';
+	font-style: normal;
+
+	color: #5a5a5a;
+}
+
+.rectangle {
+	width: 250px;
+	height: 64px;
+	margin-top: 10px;
+
+	background: #fa6464;
+	border-radius: 15px;
+
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+}
+
+.startfillingyourpatent {
+	background: none;
+	border: none;
+	color: white;
+}
+
+.image {
+	width: 540.2px;
+	height: 413.78px;
+}

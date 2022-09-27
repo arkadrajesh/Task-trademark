@@ -1,0 +1,49 @@
+.navbar {
+	padding: 0 7%;
+	height: 90px;
+	background: #ffffff;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+
+}
+.nav-items {
+	display: flex;
+	justify-content:space-between;
+	align-items: center;
+}
+.image1{
+	width: 31.76px;
+	height: 24.65px;
+	padding: 5px;
+}
+.actions{
+	/* display: flex; */
+	width: 100%;
+}
+
+.planactions{
+	list-style: none;
+	display: flex;
+	justify-content: space-around;
+	align-items:center;
+	padding: 10px;
+}
+.icons{
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+.cart{
+	width: 20.72px;
+	height: 21px;
+}
+.login{
+	border: 1px solid #FA6464;
+	border-radius: 10px;
+	width: 100px;
+	color:#FA6464;
+	margin-left: 5px;
+	padding: 20px;
+	background: white;
+}

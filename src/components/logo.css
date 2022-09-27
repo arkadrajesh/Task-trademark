@@ -1,0 +1,13 @@
+.logo-container{
+	display: grid;
+	grid-template-columns: 70% 30%;
+	width: 85%;
+	margin: auto;
+}
+
+.logos{
+	display:flex;
+	height: 100px;
+	margin: 0px;
+	padding: 0px;
+}
